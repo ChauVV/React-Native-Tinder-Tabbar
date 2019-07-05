@@ -1,5 +1,5 @@
 # React-Native-Tinder-Tabbar
 
-##Demo
+## Demo
 
   <img src="./demo.gif" height="667" width="375" />
